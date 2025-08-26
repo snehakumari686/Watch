@@ -1,0 +1,18 @@
+.btn{
+    width: 80px;
+    height: 40px;
+    display: inline;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+#start{
+    background-color: green;
+
+}
+#stop{
+    background-color: blue;
+}
+#reset{
+    background-color: red;
+}
